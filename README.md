@@ -1,4 +1,4 @@
-#News-application
+# News-application
 
 ![News Application](https://i.postimg.cc/cLhtzRCW/Screenshot-from-2023-02-08-12-54-44.png)
 ## Introduction
