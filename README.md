@@ -1,7 +1,6 @@
 #News-application
 
-![News Application]([![Screenshot-from-2023-02-08-12-54-44.png](https://i.postimg.cc/cLhtzRCW/Screenshot-from-2023-02-08-12-54-44.png)](https://postimg.cc/CRZKBfbr))
-
+![News Application](https://i.postimg.cc/cLhtzRCW/Screenshot-from-2023-02-08-12-54-44.png)
 ## Introduction
 A complete frontend News application that uses Angular Material Tailwindcss , and News API from google.
 
